@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicios", "Ejercicios\Ejercicios.csproj", "{1BB646B4-6C24-4BD0-A27E-4AC5F7417C9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 3", "Ejercicio 3\Ejercicio 3.csproj", "{35D695DF-5BCC-474C-B0BE-28604CAE88D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio4", "Ejercicio4\Ejercicio4.csproj", "{C86C79F4-370A-4786-AD90-1C385190BD26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BB646B4-6C24-4BD0-A27E-4AC5F7417C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB646B4-6C24-4BD0-A27E-4AC5F7417C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB646B4-6C24-4BD0-A27E-4AC5F7417C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB646B4-6C24-4BD0-A27E-4AC5F7417C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35D695DF-5BCC-474C-B0BE-28604CAE88D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D695DF-5BCC-474C-B0BE-28604CAE88D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D695DF-5BCC-474C-B0BE-28604CAE88D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D695DF-5BCC-474C-B0BE-28604CAE88D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C86C79F4-370A-4786-AD90-1C385190BD26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C86C79F4-370A-4786-AD90-1C385190BD26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C86C79F4-370A-4786-AD90-1C385190BD26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C86C79F4-370A-4786-AD90-1C385190BD26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF77053D-8FD5-49AC-A72A-1D9EBD35FF35}
+	EndGlobalSection
+EndGlobal
