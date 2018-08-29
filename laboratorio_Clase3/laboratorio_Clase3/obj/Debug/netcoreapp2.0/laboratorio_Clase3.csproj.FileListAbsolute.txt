@@ -1,0 +1,11 @@
+D:\VisualStudio\laboratorio_Clase3\laboratorio_Clase3\bin\Debug\netcoreapp2.0\laboratorio_Clase3.deps.json
+D:\VisualStudio\laboratorio_Clase3\laboratorio_Clase3\bin\Debug\netcoreapp2.0\laboratorio_Clase3.runtimeconfig.json
+D:\VisualStudio\laboratorio_Clase3\laboratorio_Clase3\bin\Debug\netcoreapp2.0\laboratorio_Clase3.runtimeconfig.dev.json
+D:\VisualStudio\laboratorio_Clase3\laboratorio_Clase3\bin\Debug\netcoreapp2.0\laboratorio_Clase3.dll
+D:\VisualStudio\laboratorio_Clase3\laboratorio_Clase3\bin\Debug\netcoreapp2.0\laboratorio_Clase3.pdb
+D:\VisualStudio\laboratorio_Clase3\laboratorio_Clase3\obj\Debug\netcoreapp2.0\laboratorio_Clase3.csprojAssemblyReference.cache
+D:\VisualStudio\laboratorio_Clase3\laboratorio_Clase3\obj\Debug\netcoreapp2.0\laboratorio_Clase3.csproj.CoreCompileInputs.cache
+D:\VisualStudio\laboratorio_Clase3\laboratorio_Clase3\obj\Debug\netcoreapp2.0\laboratorio_Clase3.AssemblyInfoInputs.cache
+D:\VisualStudio\laboratorio_Clase3\laboratorio_Clase3\obj\Debug\netcoreapp2.0\laboratorio_Clase3.AssemblyInfo.cs
+D:\VisualStudio\laboratorio_Clase3\laboratorio_Clase3\obj\Debug\netcoreapp2.0\laboratorio_Clase3.dll
+D:\VisualStudio\laboratorio_Clase3\laboratorio_Clase3\obj\Debug\netcoreapp2.0\laboratorio_Clase3.pdb
