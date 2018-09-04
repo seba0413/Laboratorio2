@@ -1,0 +1,11 @@
+D:\VisualStudio\Clase4Programacion\Clase4Programacion\bin\Debug\netcoreapp2.0\Clase4Programacion.deps.json
+D:\VisualStudio\Clase4Programacion\Clase4Programacion\bin\Debug\netcoreapp2.0\Clase4Programacion.runtimeconfig.json
+D:\VisualStudio\Clase4Programacion\Clase4Programacion\bin\Debug\netcoreapp2.0\Clase4Programacion.runtimeconfig.dev.json
+D:\VisualStudio\Clase4Programacion\Clase4Programacion\bin\Debug\netcoreapp2.0\Clase4Programacion.dll
+D:\VisualStudio\Clase4Programacion\Clase4Programacion\bin\Debug\netcoreapp2.0\Clase4Programacion.pdb
+D:\VisualStudio\Clase4Programacion\Clase4Programacion\obj\Debug\netcoreapp2.0\Clase4Programacion.csprojAssemblyReference.cache
+D:\VisualStudio\Clase4Programacion\Clase4Programacion\obj\Debug\netcoreapp2.0\Clase4Programacion.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Clase4Programacion\Clase4Programacion\obj\Debug\netcoreapp2.0\Clase4Programacion.AssemblyInfoInputs.cache
+D:\VisualStudio\Clase4Programacion\Clase4Programacion\obj\Debug\netcoreapp2.0\Clase4Programacion.AssemblyInfo.cs
+D:\VisualStudio\Clase4Programacion\Clase4Programacion\obj\Debug\netcoreapp2.0\Clase4Programacion.dll
+D:\VisualStudio\Clase4Programacion\Clase4Programacion\obj\Debug\netcoreapp2.0\Clase4Programacion.pdb

@@ -1,0 +1,10 @@
+D:\VisualStudio\Clase4Programacion\Ejercicio20\bin\Debug\netcoreapp2.0\Ejercicio20.deps.json
+D:\VisualStudio\Clase4Programacion\Ejercicio20\bin\Debug\netcoreapp2.0\Ejercicio20.runtimeconfig.json
+D:\VisualStudio\Clase4Programacion\Ejercicio20\bin\Debug\netcoreapp2.0\Ejercicio20.runtimeconfig.dev.json
+D:\VisualStudio\Clase4Programacion\Ejercicio20\bin\Debug\netcoreapp2.0\Ejercicio20.dll
+D:\VisualStudio\Clase4Programacion\Ejercicio20\bin\Debug\netcoreapp2.0\Ejercicio20.pdb
+D:\VisualStudio\Clase4Programacion\Ejercicio20\obj\Debug\netcoreapp2.0\Ejercicio20.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Clase4Programacion\Ejercicio20\obj\Debug\netcoreapp2.0\Ejercicio20.AssemblyInfoInputs.cache
+D:\VisualStudio\Clase4Programacion\Ejercicio20\obj\Debug\netcoreapp2.0\Ejercicio20.AssemblyInfo.cs
+D:\VisualStudio\Clase4Programacion\Ejercicio20\obj\Debug\netcoreapp2.0\Ejercicio20.dll
+D:\VisualStudio\Clase4Programacion\Ejercicio20\obj\Debug\netcoreapp2.0\Ejercicio20.pdb
