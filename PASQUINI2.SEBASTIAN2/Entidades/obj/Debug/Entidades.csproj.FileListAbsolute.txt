@@ -1,0 +1,8 @@
+C:\Users\Windows10\source\repos\PASQUINI2.SEBASTIAN2\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Windows10\source\repos\PASQUINI2.SEBASTIAN2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\LaboII\PASQUINI2.SEBASTIAN2\Entidades\bin\Debug\Entidades.dll
+C:\LaboII\PASQUINI2.SEBASTIAN2\Entidades\bin\Debug\Entidades.pdb
+C:\LaboII\PASQUINI2.SEBASTIAN2\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\LaboII\PASQUINI2.SEBASTIAN2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\LaboII\PASQUINI2.SEBASTIAN2\Entidades\obj\Debug\Entidades.dll
+C:\LaboII\PASQUINI2.SEBASTIAN2\Entidades\obj\Debug\Entidades.pdb

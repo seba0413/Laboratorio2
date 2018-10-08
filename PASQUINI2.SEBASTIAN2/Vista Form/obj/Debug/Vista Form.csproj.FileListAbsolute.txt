@@ -1,0 +1,18 @@
+C:\Users\Windows10\source\repos\PASQUINI2.SEBASTIAN2\Vista Form\obj\Debug\Vista Form.csprojAssemblyReference.cache
+C:\Users\Windows10\source\repos\PASQUINI2.SEBASTIAN2\Vista Form\obj\Debug\Vista_Form.Properties.Resources.resources
+C:\Users\Windows10\source\repos\PASQUINI2.SEBASTIAN2\Vista Form\obj\Debug\Vista_Form.Vista.resources
+C:\Users\Windows10\source\repos\PASQUINI2.SEBASTIAN2\Vista Form\obj\Debug\Vista Form.csproj.GenerateResource.cache
+C:\Users\Windows10\source\repos\PASQUINI2.SEBASTIAN2\Vista Form\obj\Debug\Vista Form.csproj.CoreCompileInputs.cache
+C:\LaboII\PASQUINI2.SEBASTIAN2\Vista Form\bin\Debug\Vista Form.exe.config
+C:\LaboII\PASQUINI2.SEBASTIAN2\Vista Form\bin\Debug\Vista Form.exe
+C:\LaboII\PASQUINI2.SEBASTIAN2\Vista Form\bin\Debug\Vista Form.pdb
+C:\LaboII\PASQUINI2.SEBASTIAN2\Vista Form\bin\Debug\Entidades.dll
+C:\LaboII\PASQUINI2.SEBASTIAN2\Vista Form\bin\Debug\Entidades.pdb
+C:\LaboII\PASQUINI2.SEBASTIAN2\Vista Form\obj\Debug\Vista Form.csprojAssemblyReference.cache
+C:\LaboII\PASQUINI2.SEBASTIAN2\Vista Form\obj\Debug\Vista_Form.Properties.Resources.resources
+C:\LaboII\PASQUINI2.SEBASTIAN2\Vista Form\obj\Debug\Vista_Form.Vista.resources
+C:\LaboII\PASQUINI2.SEBASTIAN2\Vista Form\obj\Debug\Vista Form.csproj.GenerateResource.cache
+C:\LaboII\PASQUINI2.SEBASTIAN2\Vista Form\obj\Debug\Vista Form.csproj.CoreCompileInputs.cache
+C:\LaboII\PASQUINI2.SEBASTIAN2\Vista Form\obj\Debug\Vista Form.csproj.CopyComplete
+C:\LaboII\PASQUINI2.SEBASTIAN2\Vista Form\obj\Debug\Vista Form.exe
+C:\LaboII\PASQUINI2.SEBASTIAN2\Vista Form\obj\Debug\Vista Form.pdb
