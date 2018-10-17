@@ -1,0 +1,13 @@
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\bin\Debug\VistaForm.exe.config
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\bin\Debug\VistaForm.exe
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\bin\Debug\VistaForm.pdb
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\bin\Debug\Entidades.dll
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\bin\Debug\Entidades.pdb
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\obj\Debug\VistaForm.exe
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\obj\Debug\VistaForm.pdb
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\obj\Debug\VistaForm.FrmPickup.resources
