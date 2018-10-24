@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  ejercicio54:
+    image: ${DOCKER_REGISTRY}ejercicio54
+    build:
+      context: .\Ejercicio54
+      dockerfile: Dockerfile
