@@ -1,0 +1,12 @@
+D:\VisualStudio\IO\IO\bin\Debug\IO.dll
+D:\VisualStudio\IO\IO\bin\Debug\IO.pdb
+D:\VisualStudio\IO\IO\obj\Debug\IO.csprojAssemblyReference.cache
+D:\VisualStudio\IO\IO\obj\Debug\IO.csproj.CoreCompileInputs.cache
+D:\VisualStudio\IO\IO\obj\Debug\IO.dll
+D:\VisualStudio\IO\IO\obj\Debug\IO.pdb
+D:\VisualStudio\Laboratorio2-master\IO\IO\bin\Debug\IO.dll
+D:\VisualStudio\Laboratorio2-master\IO\IO\bin\Debug\IO.pdb
+D:\VisualStudio\Laboratorio2-master\IO\IO\obj\Debug\IO.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Laboratorio2-master\IO\IO\obj\Debug\IO.dll
+D:\VisualStudio\Laboratorio2-master\IO\IO\obj\Debug\IO.pdb
+D:\VisualStudio\Laboratorio2-master\IO\IO\obj\Debug\IO.csprojAssemblyReference.cache
