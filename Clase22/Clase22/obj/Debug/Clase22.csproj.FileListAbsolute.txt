@@ -1,0 +1,10 @@
+D:\VisualStudio\Clase22\Clase22\bin\Debug\Clase22.exe.config
+D:\VisualStudio\Clase22\Clase22\bin\Debug\Clase22.exe
+D:\VisualStudio\Clase22\Clase22\bin\Debug\Clase22.pdb
+D:\VisualStudio\Clase22\Clase22\obj\Debug\Clase22.csprojAssemblyReference.cache
+D:\VisualStudio\Clase22\Clase22\obj\Debug\Clase22.Form1.resources
+D:\VisualStudio\Clase22\Clase22\obj\Debug\Clase22.Properties.Resources.resources
+D:\VisualStudio\Clase22\Clase22\obj\Debug\Clase22.csproj.GenerateResource.cache
+D:\VisualStudio\Clase22\Clase22\obj\Debug\Clase22.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Clase22\Clase22\obj\Debug\Clase22.exe
+D:\VisualStudio\Clase22\Clase22\obj\Debug\Clase22.pdb
