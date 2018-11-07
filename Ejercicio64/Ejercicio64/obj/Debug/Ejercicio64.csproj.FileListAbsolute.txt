@@ -1,0 +1,7 @@
+D:\VisualStudio\Ejercicio64\Ejercicio64\bin\Debug\Ejercicio64.exe.config
+D:\VisualStudio\Ejercicio64\Ejercicio64\bin\Debug\Ejercicio64.exe
+D:\VisualStudio\Ejercicio64\Ejercicio64\bin\Debug\Ejercicio64.pdb
+D:\VisualStudio\Ejercicio64\Ejercicio64\obj\Debug\Ejercicio64.csprojAssemblyReference.cache
+D:\VisualStudio\Ejercicio64\Ejercicio64\obj\Debug\Ejercicio64.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Ejercicio64\Ejercicio64\obj\Debug\Ejercicio64.exe
+D:\VisualStudio\Ejercicio64\Ejercicio64\obj\Debug\Ejercicio64.pdb
